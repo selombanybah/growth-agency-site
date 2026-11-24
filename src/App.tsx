@@ -43,7 +43,7 @@ function Footer() {
         <div className="md:col-span-2">
           <a href="#top" className="flex items-center gap-2.5">
             <span className="grid h-9 w-9 place-items-center rounded-xl bg-gradient-to-br from-emerald-400 to-cyan-500 text-[#04110C]"><Lightning weight="fill" className="h-5 w-5" /></span>
-            <span className="text-lg font-bold tracking-tight">VORTEXXXXXXX<span className="text-emerald-400">.</span></span>
+            <span className="text-lg font-bold tracking-tight">VORTEX<span className="text-emerald-400">.</span></span>
           </a>
           <p className="mt-4 max-w-sm text-sm text-slate-400">
             Performance marketing that compounds. SEO, paid media, content and social engineered into one revenue-attributed growth system.
